@@ -1,7 +1,7 @@
 import os
 import shutil
 
-pasta = "Downloads_teste"
+pasta = r"C:\Users\Pedro\Downloads"
 
 categorias = {
     "Imagens": [".jpg", ".jpeg", ".png", ".gif"],
