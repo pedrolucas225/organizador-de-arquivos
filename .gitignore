@@ -1,1 +1,10 @@
-C:\Users\Pedro\Downloads
+# Arquivos do sistema Windows
+Thumbs.db
+desktop.ini
+
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
